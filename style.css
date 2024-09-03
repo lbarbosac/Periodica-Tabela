@@ -1,0 +1,184 @@
+header {
+    width: 1470px;
+    padding:25px;
+    margin: 0px;
+    background-color: blue;
+
+}
+
+.titulo {
+    font-size: 50px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+a {
+    color: black;
+}
+
+body {
+    background-color: rgba(70, 67, 67, 0.849);
+}
+
+.tabela {
+    width: 1520px;
+    height: 200px;
+    text-align: center;
+}
+
+.linha1 {
+    width: 82px;
+    height: 600px;
+    float: left; 
+    margin-top: 2px;
+}
+
+.linha2 {
+    width: 82px;
+    height: 500px;
+    float: left;
+    margin-top: 82px;
+}
+
+.linha3 {
+    width: 800px;
+    height:  340px;
+    margin-top: 240px;
+    float: left;
+}
+
+.linha5 {
+    width: 82px;
+    height: 600px;
+    float: left;
+    margin-top: 82px;
+}
+
+.linha6 {
+    width: 82px;
+    height: 600px;
+    margin-top: 82px;
+    float: left;
+}
+
+.linha7 {
+    width: 82px;
+    height: 600px;
+    margin-top: 82px;
+    float: left;
+}
+
+.linha8 {
+    width: 82px;
+    height: 600px;
+    margin-top: 82px;
+    float: left;
+
+}
+
+.linha9 {
+    width: 82px;
+    height: 600px;
+    margin-top: 82px;
+    float: left;
+}
+
+.linha10 {
+    width: 82px;
+    height: 800px;
+    float: left;
+}
+
+.linha11 {
+    width: 1260px;
+    height: 82px;
+    margin-top: -100px;
+    margin-left: 246px;
+    float: left;
+}
+
+.linha12 {
+    width: 1260px;
+    height: 82px;
+    margin-left: 246px;
+    float: left;
+}
+
+
+
+.elemento {
+    width: 80px;
+    height: 80px;
+    float: left;
+
+}
+
+h1 {
+    font-size: 13px;
+    text-align: center;
+    color: rgb(12, 11, 11);
+}
+
+.Num {
+    float: right;
+    color: rgb(12, 11, 11);
+    margin-top: -1px;
+    margin-right: 3px;
+}
+
+.Sim {
+    margin: 5px;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 25px;
+    color: rgb(12, 11, 11);
+}
+
+.Nom {
+    margin-top: -19px;
+    color: rgb(12, 11, 11);
+}
+
+.Mas {
+    margin-top: -13px;
+    color: rgb(12, 11, 11);
+    text-align: center;
+
+}
+
+.roxo {
+    background-color: rgb(146, 90, 197);
+}
+
+.laranja {
+    background-color: rgb(236, 170, 48);
+}
+
+.ciano {
+    background-color: aquamarine;
+}
+
+.amarelo {
+    background-color: yellow;
+}
+
+.azulclaro {
+    background-color: rgb(118, 137, 224);
+}
+
+.azulclaro2 {
+    background-color: rgb(86, 111, 179);
+}
+ 
+.verdeclaro {
+    background-color: rgb(134, 240, 134);
+}
+
+.verde {
+    background-color: rgb(134, 214, 134);
+}
+
+.vermelho {
+    background-color: rgb(231, 70, 58);
+}
